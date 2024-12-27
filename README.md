@@ -1,5 +1,17 @@
-## Hi there 👋
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
+## Hi there 👋, my name is Andrew
+#### I am a Python developer.
+
+### Tech Stack
+- **Languages:** Python / SQL / CSS / HTML / YAML / RegExp
+- **Frameworks:** Django / DRF / Flask / FastAPI / python-telegram-bot / Aiogram3
+- **Parsing:** bs4 / Scrapy / argparse
+- **Testing:** Pytest / Unittest
+- **DBMS:** PostgreSQL / SQLite
+- **Cloud:** Docker / Git / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
+- **ORM:** SQLAlchemy ORM + Alembic
+- **Others:** Jinja2 / Aiogoogle / Djoser / JWT
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrey-kobelev&theme=default)
 
 

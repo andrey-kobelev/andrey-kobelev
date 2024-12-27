@@ -2,7 +2,7 @@
 #### I am a Python developer.
 --- 
 
-### Tech Stack
+### Tech Stack:
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp
 - **Frameworks:** Django / DRF / Flask / FastAPI / python-telegram-bot / Aiogram3
 - **Parsing:** bs4 / Scrapy / argparse

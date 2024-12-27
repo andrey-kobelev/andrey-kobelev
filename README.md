@@ -2,9 +2,9 @@
 #### I am a Python developer.
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrey-kobelev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrey-kobelev&theme=default)&nbsp;
 
-### &nbsp; Tech Stack
+### Tech Stack
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp
 - **Frameworks:** Django / DRF / Flask / FastAPI / python-telegram-bot / Aiogram3
 - **Parsing:** bs4 / Scrapy / argparse

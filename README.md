@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Andrew
 #### I am a Python developer.
+---
 
 ### Tech Stack
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp

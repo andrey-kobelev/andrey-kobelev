@@ -9,7 +9,7 @@
 - **Testing:** Pytest / Unittest
 - **DBMS:** PostgreSQL / SQLite
 - **Cloud:** Docker / Git / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
-- **ORM:** SQLAlchemy ORM + Alembic
+- **ORM:** SQLAlchemy + Alembic
 - **Others:** Jinja2 / Aiogoogle / Djoser / JWT
 
 ### OS

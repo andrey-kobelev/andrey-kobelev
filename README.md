@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Andrew
 #### I am a Python developer.
 ---
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/andrew_kobe)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrey-kobelev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/andrew_kobe)  
 
 ### Tech Stack
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp

@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Andrew
 #### I am a Python developer.
 ---
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrey-kobelev&theme=default)&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/andrew_kobe)
 
 ### Tech Stack
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp
@@ -13,7 +12,6 @@
 - **Cloud:** Docker / Git / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
 - **ORM:** SQLAlchemy ORM + Alembic
 - **Others:** Jinja2 / Aiogoogle / Djoser / JWT
-
 
 
 

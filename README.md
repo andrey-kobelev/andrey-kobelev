@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Andrew
-#### I am a Python developer.
+#### I am a Python developer. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 --- 
 
 ### Tech Stack and Libs:

@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Andrew
-#### I am a Python developer. <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+#### I am a Python developer.
 --- 
 
 ### Tech Stack and Libs:
@@ -11,6 +11,8 @@
 - **Cloud:** Docker / Git / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
 - **ORM:** SQLAlchemy + Alembic
 - **Others:** Jinja2 / Aiogoogle / Djoser / JWT
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kobelev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

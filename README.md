@@ -12,7 +12,7 @@
 - **ORM:** SQLAlchemy + Alembic
 - **Others:** Jinja2 / Aiogoogle / Djoser / JWT
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kobelev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kobelev&layout=compact)](https://github.com/andrey-kobelev/)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

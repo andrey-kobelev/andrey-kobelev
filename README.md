@@ -1,16 +1,18 @@
 ### Hi there 👋, my name is Andrew
-#### I am a Python developer.
---- 
+#### I am a Python developer focused on backend development, AI integration, and project automation.
+---
 
-### Tech Stack and Libs:
+### Tech Stack & Libraries:
 - **Languages:** Python / SQL / CSS / HTML / YAML / RegExp
-- **Frameworks:** Django / DRF / Flask / FastAPI / python-telegram-bot / Aiogram3
-- **Parsing:** bs4 / Scrapy / argparse
-- **Testing:** Pytest / Unittest
-- **DBMS:** PostgreSQL / SQLite
-- **Cloud:** Docker / Git / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
-- **ORM:** SQLAlchemy + Alembic
-- **Others:** Jinja2 / Aiogoogle / Djoser / JWT
+- **Frameworks & Web:** Django / DRF / Flask / FastAPI / python-telegram-bot / Aiogram3 / Vue.js
+- **Parsing & Automation:** bs4 / Scrapy / argparse
+- **Testing & QA:** Pytest / Unittest
+- **Databases:** PostgreSQL / SQLite
+- **Cloud & DevOps:** Docker / Docker-compose / Git / GitHub / Nginx / Uvicorn / Gunicorn / CI/CD (GitHub Actions)
+- **ORM & Migrations:** SQLAlchemy + Alembic
+- **AI & Integrations:** OpenAI API / Aiogoogle / RAG systems / FastAPI AI endpoints
+- **Authentication & Security:** Djoser / JWT / FastAPI Users
+- **Templating & Utils:** Jinja2 / Logging / Validators
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kobelev&layout=compact)](https://github.com/andrey-kobelev/)
 

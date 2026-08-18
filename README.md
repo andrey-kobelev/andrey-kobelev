@@ -196,7 +196,7 @@ Backend AI
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-kobelev\&layout=compact\&theme=transparent)](https://github.com/andrey-kobelev/)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andrey-kobelev&layout=compact&langs_count=8&hide_border=true)](https://github.com/andrey-kobelev/)
 
 </div>
 

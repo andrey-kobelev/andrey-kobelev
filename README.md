@@ -77,39 +77,17 @@ semaphore-limited model concurrency, field-level Redis merges between parallel g
 The recurring shape across my projects: a thin API layer, background workers doing the heavy work,
 and an agent runtime whose state is explicit, observable and testable offline.
 
-<!--
-  Prefer static images instead of Mermaid? Commit assets/ and swap the block below for:
-
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
-    <img alt="Architecture" src="assets/architecture-light.svg" width="880">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/andrey-kobelev/andrey-kobelev/main/assets/architecture-dark.png">
+    <img
+      alt="Thin FastAPI layer, background workers, and a LangGraph agent runtime wired to Redis, MCP tools, a vector store and external systems"
+      src="https://raw.githubusercontent.com/andrey-kobelev/andrey-kobelev/main/assets/architecture-light.png"
+      width="880">
   </picture>
--->
-
-```mermaid
-flowchart TD
-    Client(["Client"])
-    API["FastAPI<br/>thin API layer"]
-    DB[("PostgreSQL<br/>SQLAlchemy 2.0 · Alembic")]
-    W["Workers<br/>TaskIQ · Celery · ARQ"]
-    AG["Agent runtime — LangGraph<br/>state · interrupts · tools"]
-    R[("Redis<br/>state · locks · pub/sub")]
-    MCP["MCP tools<br/>JWT auth · scoped tokens"]
-    VEC[("Vector store<br/>Qdrant · ChromaDB")]
-    EXT["External systems<br/>CRM · telephony · TTS / STT"]
-
-    Client -->|"HTTP · webhooks"| API
-    API --> DB
-    API -->|"enqueue"| W
-    W --> AG
-    AG <--> R
-    AG --> MCP
-    AG --> VEC
-    AG --> EXT
-
-    classDef accent stroke:#6366f1,stroke-width:2px
-    class AG accent
-```
+</p>
 
 ---
 
